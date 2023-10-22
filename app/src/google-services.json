@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46979790644",
+    "project_id": "unimeet-khyati-2003",
+    "storage_bucket": "unimeet-khyati-2003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46979790644:android:f0b453a57654d6829b9761",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46979790644-qocvbsh3oh6i5te1c53shuoptil4g8ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDdDEk6IoUHtYMc_aqFXf0wbUUYlBOA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46979790644-qocvbsh3oh6i5te1c53shuoptil4g8ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
